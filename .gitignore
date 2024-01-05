@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Testing
+*.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Dependency directories
+env/
+venv/
+env_bak/
+venv_bak/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Miscellaneous
+*.bak
+*.swp
+*.log
+*.tmp
+.DS_Store
