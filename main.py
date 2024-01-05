@@ -1,4 +1,5 @@
-from module.submodule import math
 
-b = math.add(7,8)
-print(b)
+from module.submodule.third import Math
+
+ogb = Math.add(4,4)
+print(ogb) #8

@@ -1,4 +1,3 @@
-class math():
-
-    def add(x,y):
+class Math:
+    def add(x, y):
         return x+y
